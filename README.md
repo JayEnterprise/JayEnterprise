@@ -1,7 +1,4 @@
-
-
-<!--
-**JayEnterprise/JayEnterprise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi dear 👋
 
 
 - 🔭 I’m currently working on developing a customer relationship management (CRM) app with features for managing leads, contacts, and sales pipelines.
